@@ -1,8 +1,8 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"Karmin",
+    "id":"com.vrchat.Karmin",
     "url":"https://vrchat-community.github.io/template-package-listing/index.json",
-    "author":{
+    "author":{Syyanide
         "email":"developer@vrchat.com",
         "name":"VRChat",
         "url":"https://hello.vrchat.com"
