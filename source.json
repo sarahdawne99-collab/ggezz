@@ -1,14 +1,14 @@
 {
     "name":"Karmin",
     "id":"com.vrchat.Karmin",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
-    "author":{Syyanide
+    "url":"https://sarahdawne99-collab.github.io/ggezz/index.json",
+    "author":Syyanide
         "email":"developer@vrchat.com",
         "name":"VRChat",
         "url":"https://hello.vrchat.com"
     },
     "description":"Example listing of VRChat packages",
-    "infoLink":{
+    "https://sarahdawne99-collab.github.io/ggezz/index.json":{
         "url":"http://github.com/vrchat-community/template-package-listing",
         "text":"View on GitHub"
     },
